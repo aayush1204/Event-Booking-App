@@ -1,10 +1,8 @@
-# GraphQL + React Event Booking API
-This code belongs to a tutorial series: [https://github.com/academind/yt-graphql-react-event-booking-api.git](https://github.com/academind/yt-graphql-react-event-booking-api.git)
+# Event Booking App
 
-Learn how to build a GraphQL API (with Node.js) and a React.js frontend from scratch in this series.
+• Developed an event booking web application which allows user to register, login, create their own events, book an event and cancel their bookings. User can view graphical representation of the bookings they have made.
 
-# Usage
-Choose the right branch in this repository to get the code for the different parts of the series.
+• Used graphQL to build the APIs for the website, mongoDB to store users and events details. Incorporated dataloader tool to reduce the overhead resulting from frequent API calls to the database
 
 Install all dependencies
 ```sh
